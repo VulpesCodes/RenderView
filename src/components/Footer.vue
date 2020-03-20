@@ -1,6 +1,6 @@
 <template>
   <div class="github">
-    <a href="#">Github</a>
+    <a href="https://github.com/VulpesCodes/RenderView">Github</a>
   </div>
 </template>
 <script>
