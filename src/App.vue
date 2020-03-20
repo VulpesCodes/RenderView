@@ -49,7 +49,7 @@ body {
 #menu {
   display: flex;
   justify-content: space-between;
-  margin: 0 0 50px 0;
+  margin: 0 0 60px 0;
   padding:  10px 50px;
   background-color: #363636;
   align-text: center;

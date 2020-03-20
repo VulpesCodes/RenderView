@@ -8,17 +8,19 @@
     </div>
   </div>
   <ModelList :models="models" />
-
+  <Footer />
 </div>
 </template>
 
 
 <script>
 import ModelList from "../components/ModelList.vue"
+import Footer from "../components/Footer.vue"
 export default {
   name: 'Home',
   components: {
-    ModelList
+    ModelList,
+    Footer
   },
   data() {
   return {
