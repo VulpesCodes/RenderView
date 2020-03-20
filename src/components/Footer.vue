@@ -19,6 +19,7 @@ export default {
   background-color: #363636;
   position: fixed;
   bottom: 0;
+  left: 0;
   color: #0094bd;
 }
 .github a{

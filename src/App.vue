@@ -59,6 +59,7 @@ body {
   font-size: 22px;
   position: fixed;
   top: 0px;
+  left: 0;
   width: 100%;
 }
 #menu a {
