@@ -29,6 +29,9 @@
       </router-link>
     </div>
   </div>
+  <div class="headspace">
+    <br>
+  </div>
   <router-view />
 </div>
 </template>
@@ -56,6 +59,7 @@ body {
   font-size: 22px;
   position: fixed;
   top: 5px;
+  width: 100%;
 }
 #menu a {
   color: #0094bd;
@@ -128,4 +132,8 @@ body {
 .browse {
   margin-right: 50px;
 }
+.headspace {
+  padding-top: 100px;
+}
+
 </style>
