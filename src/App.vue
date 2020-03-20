@@ -129,6 +129,7 @@ body {
 }
 .menu-item p {
   margin: 0px;
+  padding-top: 2px;
 }
 .browse {
   margin-right: 30px;
