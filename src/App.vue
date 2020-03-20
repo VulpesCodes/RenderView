@@ -54,6 +54,8 @@ body {
   background-color: #363636;
   align-text: center;
   font-size: 22px;
+  position: fixed;
+  top: 5px;
 }
 #menu a {
   color: #0094bd;
