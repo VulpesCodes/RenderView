@@ -58,7 +58,7 @@ body {
   align-text: center;
   font-size: 22px;
   position: fixed;
-  top: 5px;
+  top: 0px;
   width: 100%;
 }
 #menu a {
@@ -130,7 +130,7 @@ body {
   margin: 0px;
 }
 .browse {
-  margin-right: 50px;
+  margin-right: 30px;
 }
 .headspace {
   padding-top: 100px;
