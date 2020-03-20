@@ -17,7 +17,7 @@ export default {
   width: 100%;
   text-align: center;
   background-color: #363636;
-  position: sticky;
+  position: fixed;
   bottom: 0;
   color: #0094bd;
 }
